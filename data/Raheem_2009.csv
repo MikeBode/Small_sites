@@ -1,0 +1,30 @@
+# study_id: Raheem_2009
+# source: Raheem, D.C. et al., 2009. Fragmentation and pre-existing species turnover determine land-snail assemblages of tropical rain forest. Journal of Biogeography, 36(10), pp.1923-1938.
+# doi: 10.1111/geb.70015
+# database: LandFrag (Goncalves-Souza et al. 2025; doi:10.1111/geb.70015)
+# taxon: Mollusca
+# region: Sri Lanka
+# n_fragments: 19
+# n_species: 52
+# area_units: hectares
+# notes: Continuous-forest sites (patch_type='continuous') excluded; abundance = individuals
+fragment_id,area,Acavus_haemastoma,Acavus_phoenix,Acavus_superbus,Aulopoma_sp._A,Beddomea_albizonata,Corilla_adamsi,Cryptozona_chenui,Cyathopoma_ceylanicum,Cyathopoma_sp._A,Cyathopoma_sp._B,Cyclophorus_involvulus,Cyclophorus_menkeanus,Euplecta_emiliana,Euplecta_hyphasma,Euplecta_indica,Euplecta_partita,Euplecta_sp._Y,Euplecta_sp._Z,Euplecta_travancorica_praeeminens,Eurychlamys_sp._A,Eutomopeas_layardi,Glessula_capillacea,Glessula_sp._A_1,Glessula_sp._A_3,Glessula_sp._A_4,Glessula_sp._C,Glessula_sp._G,Glessula_sp._H,Japonia_sp._A,Japonia_sp._B,Leptopoma_semiclausum,Leptopomoides_poecilus,Microcystina_lita,New_genus_related_to_Eurychlamys:_sp._A,Nicida_delectabilis,Oligospira_poleii,Philalanka_secessa,Philalanka_thwaitesi,Pupisoma_miccyla,Ratnadvipia_irradians,Ratnadvipia_sp._A,Ruthvenia_sp._A_1,Satiella_sp._A,Sitala_operiens,Subulina_octona,Theobaldius_layardi,Theobaldius_sp._A,Theobaldius_sp._B,Theobaldius_sp._E,Tortulosa_aureus,Tortulosa_prestoni,Tortulosa_pyramidata
+Awu,181.99,0,10,14,2,2,10,3,0,0,0,0,0,1,0,0,0,1,0,4,0,5,0,0,0,12,0,0,0,0,0,6,0,0,0,0,5,0,0,0,8,9,0,12,0,0,0,2,13,0,0,0,0
+B(K),1041.78,8,0,0,3,6,20,6,6,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,9,0,0,0,0,0,10,0,0,0,0,14,0,0,0,0,1,0,54,0,0,0,0,18,0,1,0,0
+Hab,855.86,11,4,0,5,68,0,8,0,1,0,0,43,1,60,5,17,3,0,38,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,9,0,0,0,0,0,3,20,0,0,3,10,15,0,6,0,0
+KK,383.04,25,0,0,3,42,0,7,0,0,0,0,0,0,0,0,0,7,2,3,2,1,0,0,0,1,0,0,0,0,0,5,0,0,0,0,13,2,0,0,3,0,0,47,0,0,0,0,14,0,0,0,3
+Kal,3241.91,0,3,4,2,9,0,5,0,0,0,0,0,0,0,0,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0,30,0,0,0,0,2,0,0,0,2,7,0,39,0,0,0,0,5,0,4,0,0
+Kalub,196.8,0,1,4,0,30,0,12,0,2,0,0,0,0,0,0,3,2,23,8,0,6,3,0,0,0,0,0,9,0,0,0,0,1,1,0,1,0,0,0,0,6,7,29,0,0,0,13,3,0,0,1,0
+Mul,1677,0,0,0,6,9,3,0,0,3,0,0,0,0,0,1,2,0,0,0,0,7,0,0,9,0,29,0,0,0,0,3,0,0,0,2,13,0,0,0,15,0,0,11,0,0,0,5,24,0,0,0,2
+Ram,1539.69,0,0,0,2,8,5,3,0,2,3,1,0,0,0,0,2,0,3,1,0,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,12,0,0,70,0,1,0,6,5,0,0,0,2
+SI-Batugoda,4,0,3,4,0,6,0,7,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,8,0,118,0,0,3,0,4,0,0,0,0
+SI-Gangodakanda,21.71,0,0,0,3,7,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,7,2,0,0,19,0,0,0,1,0,0,0,0,3
+SI-Getara,11.16,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,71,1,0,0,41,0,1,0,0,0,0,0,0,15
+SI-Hingalgodawatta,2.18,0,6,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,10,0,18,0,0,0,0,5,0,0,0,0
+SI-Kudaludolakanda,4.47,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,157,0,0,0,0,3,0,0,0,0
+SI-Tawalama,1.5,0,8,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,57,25,0,33,2,0,0,0,0,0,0,0,0
+SI-Wattekelewa,4.63,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,72,0,0,0,0,9,0,0,0,1
+SI-Yattapatha,1.17,0,3,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6,0,0,3,0,0,0,0,0,0,8,0,31,0,0,0,0,0,4,0,0,0
+SI_Kabaragala,1.6,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0
+Vih,564.35,0,0,0,2,3,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,6,0,0,0,0,0,5,0,0,7,7,0,0,2,0,0,0,0,3,0,0,0,0
+Yag,2357.09,1,2,0,1,3,0,8,3,0,0,0,0,0,0,0,0,3,0,1,0,1,0,0,0,3,0,15,0,0,0,13,4,0,0,1,0,0,0,0,0,0,0,7,0,0,12,0,0,0,0,0,0

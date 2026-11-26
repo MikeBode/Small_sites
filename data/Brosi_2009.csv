@@ -1,0 +1,33 @@
+# study_id: Brosi_2009
+# source: Brosi, B.J., 2009. The effects of forest fragmentation on euglossine bee communities (Hymenoptera: Apidae: Euglossini). Biological Conservation, 142(2), pp.414-423.
+# doi: 10.1111/geb.70015
+# database: LandFrag (Goncalves-Souza et al. 2025; doi:10.1111/geb.70015)
+# taxon: Insecta
+# region: Costa Rica
+# n_fragments: 22
+# n_species: 23
+# area_units: hectares
+# notes: Continuous-forest sites (patch_type='continuous') excluded; abundance = individuals
+fragment_id,area,Euglossa_allosticta,Euglossa_asarophora,Euglossa_atroveneta,Euglossa_bursigera,Euglossa_championi,Euglossa_cognata,Euglossa_crassipunctata,Euglossa_cybelia,Euglossa_erythrochlora,Euglossa_flammea,Euglossa_gorgonensis,Euglossa_heterosticta,Euglossa_imperialis,Euglossa_maculilabris,Euglossa_mixta,Euglossa_oleolucens,Euglossa_sapphirina,Euglossa_villosiventris,Eulaema_cingulata,Eulaema_meriana,Eulaema_nigrita,Eulaema_speciosa,Eulema_bombiformis
+Site_1,0.66,0,0,0,0,8,0,0,1,5,1,0,0,0,1,2,0,0,0,0,0,0,0,2
+Site_10,236.62,0,1,0,0,3,0,0,1,2,1,0,0,0,0,0,3,0,0,0,1,0,0,9
+Site_11,24.96,0,0,0,0,2,0,0,0,4,1,0,0,0,1,0,0,0,0,0,0,0,0,6
+Site_12,8.36,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,14
+Site_13,1.06,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,1,0,0,0,0,0,7
+Site_14,236.62,0,0,0,0,12,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Site_15,3.39,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,1,2,0,0,2
+Site_16,0.24,0,0,0,0,7,0,0,2,6,0,0,0,0,0,3,0,0,0,0,1,0,0,0
+Site_17,296.49,0,0,0,0,21,0,0,0,0,0,1,0,0,21,1,0,0,0,0,0,0,0,0
+Site_18,0.47,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Site_19,28.79,0,0,0,0,2,0,0,1,8,3,0,0,0,0,3,0,0,0,0,0,0,0,7
+Site_2,2.14,0,0,0,0,10,0,0,0,2,1,2,0,0,1,1,1,0,0,0,0,1,0,0
+Site_20,4.67,0,0,0,0,15,0,0,2,8,1,0,0,0,1,1,1,0,0,0,0,0,0,5
+Site_21,1.05,0,0,0,0,4,0,0,0,1,0,1,0,0,0,2,0,0,0,0,0,1,0,4
+Site_22,1.18,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,6
+Site_3,55.19,0,0,0,1,5,0,0,1,17,4,1,0,1,1,5,0,0,0,0,0,0,0,19
+Site_4,0.53,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2
+Site_5,6.83,0,0,0,0,2,0,0,4,15,0,0,1,1,0,1,0,0,0,0,1,0,0,6
+Site_6,1.13,1,0,0,0,4,1,0,2,3,1,1,0,0,0,2,0,0,1,0,0,1,0,1
+Site_7,1.46,0,0,0,0,13,0,0,1,0,0,1,0,0,13,0,0,0,0,0,1,0,0,1
+Site_8,24.76,0,0,0,0,2,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,2
+Site_9,3.27,0,0,1,0,6,0,0,0,6,2,0,2,0,0,1,0,1,0,0,0,0,0,7

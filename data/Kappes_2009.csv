@@ -1,0 +1,29 @@
+# study_id: Kappes_2009
+# source: Kappes, H. et al., 2009. Response of snails and slugs to fragmentation of lowland forests in NW Germany. Landscape Ecology, 24(5), pp.685-697.
+# doi: 10.5061/dryad.595718c
+# database: FragSAD (Chase et al. 2019; Dryad doi:10.5061/dryad.595718c)
+# taxon: Mollusca
+# region: Germany
+# n_fragments: 18
+# n_species: 44
+# area_units: hectares
+# notes: Continuous-forest control sites (site_size='continuous') excluded; abundance = individuals
+fragment_id,area,Acanthinula_aculeata,Aegopinella_nitidula,Aegopinella_pura,Arion_distinctus,Arion_fuscus,Arion_intermedius,Arion_lusitanicus,Arion_rufus,Arion_silvaticus,Arion_subfuscus,Balea_biplicata,Boettgerilla_pallens,Carychium_tridentatum,Cepaea_hortensis,Cepaea_nemoralis,Clausilia_bidentata,Cochlicopa_lubrica,Cochlodina_laminata,Columella_aspera,Columella_edentula,Daudebardia_brevipes,Deroceras_panormitanum,Deroceras_reticulatum,Discus_rotundatus,Euconulus_alderi,Euconulus_fulvus,Helix_pomatia,Lehmannia_marginata,Limax_cinereoniger,Limax_maximus,Malacolimax_tenellus,Merdigera_obscura,Monachoides_incarnatus,Nesovitrea_hammonis,Oxychilus_alliarius,Oxychilus_cellarius,Oxychilus_draparnaudi,Phenacolimax_major,Punctum_pygmaeum,Trichia_hispida,Vertigo_substriata,Vitrea_contracta,Vitrea_crystallina,Vitrea_pellucida
+Friesh,59,0.1,0.1,0.1,0.1,0.1,1.5,0,0.5,1.5,0.1,0.01,0,0,0.1,0,0.1,0,0,0,0,0,0,0.1,6,0,1,0,0,0,0.1,0.5,0,0.2,0.1,0.1,0,0,0,5,0,0,0,0,0.1
+Grambusch(Schwanenbg),28,0,0,0,0,1,3,0,0,0.1,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,6,0,0.1,0,2,0,0,2,0,0,1,0,0,0,0,8,0,0,0,0,0
+Gremb,53,0,0.1,0.02,0,1.1,8,1.6,0.3,0.61,0,0.21,0.2,5.01,0.2,0.01,0.1,0.01,0,0,0,0,0.01,0.1,52,0,0.1,0,0,0,0.3,0.61,0.01,0.7,7,0.1,0.01,0.2,0,36,0.01,0,0,0.2,0.1
+Ham,4996,0,2.1,0.2,0.1,0.7,22,0.5,8.5,9.5,0.2,0,0,1.6,0.21,0,1.6,0,0,0,0,0,0,0.1,19,0,0.3,0,0.6,1.8,0.6,4.1,0,1,8.2,0.6,0.02,0,0,47,0,0,0.1,0.1,0.11
+Ham_AWZ_Soph,67,0,0,0,0,2,21,0,19,7,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,28,0,0,0,1,0,0,4,0,0.1,1,0.1,0,0,0,12,0,0,0,0,0
+Ham_KFZ,264,0,0.01,0.1,0,2,9,0,5,2,0.1,0,0,0,0,0,0.1,0,0,0,0.1,0,0,0,12,0,1,0,0.2,0.1,0,0.5,0,0,5,0,0,0,0,4,0,0,0,0,0
+Ham_Morsch,144,0,0.1,0,0,0.7,6,0,7,8,0,0,0,0.1,0.1,0,0.01,0,0,0,0,0,0,0,7,0,1.1,0,0.3,0,0.1,2.5,0,0.6,22,0.1,0,0,0,36,0,0,0,0,0.1
+Heimerzh,2265,1,0.1,2.1,0,1.6,29,0,15,12.5,0.3,0,0.2,0.7,0.2,0,0.3,0,0,0.1,0.1,0,0,0.2,42,0,3.2,0,2.6,1.1,0,2.2,0,4.9,33,0.6,1.1,0,0.7,66,0,0,0.1,0.6,0.1
+Koen,6000,0,0,0,0,0.7,10,0,6.1,9.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.1,0,0.71,0,0.12,0.11,0.7,1.7,0,0.2,21.01,0.01,0.01,0,0,33.1,0,0,0,0,0
+Marienhz,103,0,0.1,0,0,0.01,2,0,0.2,0.2,0.01,0,0,0,0,0.01,0,0,0,0,0,0,0,0,4,0,0,0,0.01,0,0.1,1,0,0.1,0,0.01,0,0,0.1,0,0,0,0,0,0
+Nörv,201,2,0.1,3,0.5,0.5,1.5,0,0.5,2,0,1,0,5,0.1,0,2,0,5,0,1,0,0,0,15,0,2,0.1,1,0.2,0.1,0.1,0.5,1.5,0,0,0,0,0,22,0,0,0.5,0,0.1
+Sievernich-Streifen,8,0,0.1,1,0.5,0.1,2,0,0.1,0,0.1,1.5,0.1,0,0.1,0,0.2,0,0,0,0.5,0,0,0,3,0,0,0.2,0,0,0.2,0,0.1,0.2,0.1,0,0,0.01,0,3,0.5,0,0.1,0,0.5
+Soph_Alt_2,126,0,0,0.1,0.1,0.1,2,2,1,2,0,0.5,0.1,14,0.1,0,0.1,0,0,0,0,0,0,0.01,13,0,0,0,0,0,0.1,0.1,0,0.1,6,0,0.1,0,0,17,0,0,0,0.01,0.01
+Vil_Mett,699,0,0.1,0.1,0,0.1,4,0,2,2,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,7,0,0,0,0.1,0.1,0,0.1,0,0.5,3,0.1,0.2,0,0.1,19,0,0,0,0,0.1
+Vill_Kön,357,0,0,0,0.01,2.51,17,0,12,3,0,0,0,0.1,0.1,0,0.01,0,0,0,0,0.1,0,0,37,0,1,0,0,0.51,0.11,0.01,0,0.3,2,0,0.5,0,0.01,48,0,0,0,0,0
+Ville_b,1185,3,0.1,0.1,0,0.1,4.3,0,2.1,4.2,0,0,0,0.1,0.1,0,0.5,0,0,0,0,0,0,0,23.5,0,0,0,0.1,0,0.1,0.8,0,0.1,20.5,0,0.2,0,0,37,0,0,0,0,0
+Wass,43,0,0,0,0,1,2,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,3,0,0,4,0,0,0,0,0,0,0,10,0,0,0,0,0
+Wick,51,0,0,1,0,2,7,0.1,0.1,1,0,0,0,1,3,0,2,0,0,0.5,0,0,0,0.1,25,0.2,3,0.01,2,0,0.1,1,0,0,0,1,0,0,0,49,0,0.1,0,0,0

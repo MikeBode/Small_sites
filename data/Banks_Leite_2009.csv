@@ -1,0 +1,30 @@
+# study_id: Banks_Leite_2009
+# source: Banks, C. 2009. Efeitos da fragmentao lato sensu do habitat sobre a comunidade de aves de sub-bosque do Planalto Atlntico de Ibina e definio de espcies representativas. Tese de Doutorado. Universidade de So Paulo, So Paulo, Brasil. Banks-Leite, C., Ewers R.M., Metzkger, J.P. 2010, Edge effects as the principal cause of area effects on birds in fragmented secondary forest, Oikos 119, 918-926.
+# doi: 10.1111/geb.70015
+# database: LandFrag (Goncalves-Souza et al. 2025; doi:10.1111/geb.70015)
+# taxon: Aves
+# region: Brazil
+# n_fragments: 19
+# n_species: 78
+# area_units: hectares
+# notes: Continuous-forest sites (patch_type='continuous') excluded; abundance = individuals
+fragment_id,area,Anabacerthia_amaurotis,Anabazenops_fuscus,Attila_rufus,Automolus_leucophthalmus,Basileuterus_culicivorus,Basileuterus_leucoblepharus,Batara_cinerea,Chamaeza_meruloides,Chiroxiphia_caudata,Cichlocolaptes_leucophris,Cnemotriccus_fuscatus,Colaptes_melanochloros,Conopophaga_lineata,Cyclarhis_gujanensis,Dendrocincla_turdina,Dendrocolaptes_platyrostris,Drymophila_malura,Dysithamnus_mentalis,Euphonia_pectoralis,Formicarius_colma,Geotrygon_montana,Grallaria_varia,Habia_rubica,Haplospiza_unicolor,Heliobletus_contaminatus,Hemitriccus_diops,Hylophilus_poicilotis,Lathrotriccus_euleri,Lepidocolaptes_fuscus,Lepidocolaptes_squamatus,Leptopogon_amaurocephalus,Leptotila_rufaxilla,Leptotila_verreauxi,Lochmias_nematura,Mackenziana_leachii,Manacus_manacus,Micrastur_ruficollis,Mionectes_rufiventris,Myiobius_atricaudus,Myiobius_barbatus,Myiodynastes_maculatus,Myrmeciza_squamosa,Myrmotherula_gularis,Onychorhynchus_coronatus,Phylloscartes_ventralis,Picumnus_temminckii,Pipraeidea_melanonota,Platycichla_flavipes,Platyrinchus_mystaceus,Pyriglena_leucoptera,Pyroderus_scutatus,Ramphotrigon_megacephala,Rupornis_magnirostris,Saltator_similis,Schiffornis_virescens,Sclerurus_scansor,Scytalopus_speluncae,Sittasomus_griseicapillus,Sporophila_lineola,Synallaxis_ruficapilla,Syndactyla_rufosuperciliata,Tachyphonus_coronatus,Tangara_desmaresti,Thamnophilus_caerulescens,Thraupis_cyanoptera,Tiaris_fuliginosus,Tolmomyias_sulphurescens,Trichothraupis_melanops,Troglodytes_musculus,Trogon_rufus,Turdus_albicollis,Turdus_amaurochalinus,Turdus_leucomelas,Turdus_rufiventris,Veniliornis_spilogaster,Vireo_olivaceus,Xenops_minutus,Xiphocolaptes_albicollis
+Alce,17.72,0,0,2,0,10,3,0,0,13,0,0,0,8,0,0,3,0,9,0,0,0,1,0,1,0,0,0,1,10,0,1,0,1,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,22,9,0,0,0,0,0,2,0,2,0,1,5,2,0,4,0,0,2,7,0,0,28,0,1,5,0,0,0,0
+Antenor_frag,3,0,4,1,2,1,1,0,0,3,0,0,1,7,0,0,0,0,4,0,0,0,0,0,3,0,1,0,0,3,0,0,0,0,0,0,0,0,3,1,0,0,4,3,1,0,0,0,0,9,7,0,0,0,0,4,2,0,5,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,1,0
+Baleia,4.25,0,0,0,0,4,2,1,0,2,0,0,0,13,0,0,1,0,5,0,0,0,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,2,1,0,7,0,0,3,1,0,1,2
+Bicudinho,24.5,0,0,0,0,1,3,0,0,18,0,0,2,5,1,0,1,0,2,0,0,3,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,7,3,0,0,0,0,2,3,0,5,0,0,1,0,0,0,0,0,0,7,0,0,8,0,0,9,0,0,0,0
+Cristo,103.54,0,0,2,0,5,9,0,0,7,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,8,0,1,0,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,1,3,15,1,0,0,0,0,4,0,3,0,2,0,4,0,0,0,0,0,10,0,0,3,0,0,0,1,0,0,0
+Dn._Ivone,3.73,0,0,1,0,7,2,0,0,2,0,0,0,6,2,0,4,0,3,0,0,0,1,0,1,0,0,1,3,14,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1,0,0,0,2,0,1,0,5,0,3,2,4,0,3,0,0,0,4,0,0,6,1,0,4,0,0,0,0
+Eme,16.97,0,0,0,0,4,9,0,0,7,0,0,0,10,0,0,0,0,11,0,0,0,0,0,0,0,0,1,1,11,0,2,0,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,3,4,0,0,0,0,4,0,0,8,0,0,2,2,0,0,0,0,2,3,0,0,7,0,0,8,1,0,0,0
+Estrada,4.1,0,0,0,0,5,0,0,0,8,0,0,0,5,1,0,1,0,4,0,0,0,0,0,3,0,0,1,1,3,0,2,0,1,0,0,1,0,0,0,0,0,3,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,12,0,0,0,2,0,0,0,1,1,4,0,0,8,0,0,4,2,1,0,0
+Fuzue,2122,0,0,0,0,4,6,3,0,7,0,0,0,6,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,12,0,2,0,0,0,0,0,0,0,0,0,1,2,1,0,0,1,0,0,6,1,0,0,0,0,0,9,0,3,0,0,0,0,0,0,0,0,0,5,0,1,2,0,0,1,0,0,0,0
+Haras,3.61,0,0,1,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,4,2,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,4,0,1,2,1,0,1,0,0,0,2,0,0,1,0,0,4,0,0,0,0
+Jeanzao,27.9,0,0,2,0,5,7,1,0,6,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,8,0,1,2,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,12,8,0,0,0,1,4,5,0,6,0,0,1,0,0,0,0,0,0,9,0,0,5,0,0,1,0,0,2,0
+Jeanzinho,3.46,0,0,0,0,4,1,1,0,5,0,2,0,11,0,0,0,0,2,0,0,0,0,0,2,0,0,0,4,6,0,0,0,1,0,0,0,1,0,0,0,0,3,2,0,0,0,0,4,7,4,0,0,0,0,1,1,0,5,0,0,1,1,0,0,0,0,2,3,0,1,4,0,0,2,1,0,1,4
+Linha,14.4,0,0,0,0,7,4,0,0,11,1,0,0,6,0,0,0,1,6,0,0,0,1,0,2,0,0,0,3,7,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,2,0,0,8,7,0,0,0,0,6,5,0,13,0,0,4,3,7,1,0,0,1,14,0,0,2,0,0,4,0,0,0,0
+Medico,92,2,0,0,2,1,1,0,0,9,0,0,0,2,0,2,2,0,6,0,2,2,0,10,3,0,0,0,0,9,1,1,1,0,0,0,0,0,8,1,1,0,5,7,0,0,0,0,0,5,6,0,1,0,2,6,1,0,5,0,0,0,1,0,0,1,0,0,3,0,0,1,0,0,0,1,0,3,0
+Odorico,145.35,0,1,4,4,2,1,0,1,4,0,0,0,6,0,2,1,0,0,0,0,1,0,6,1,0,0,0,0,11,0,0,1,1,0,0,0,2,2,1,0,0,1,3,0,0,0,0,0,7,6,0,0,0,0,8,3,1,13,0,0,0,0,0,0,0,0,0,16,0,1,1,0,0,0,0,0,0,0
+Osasco,29,0,0,1,0,1,12,0,0,18,0,0,0,12,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,13,3,0,0,0,1,11,3,0,5,0,1,2,3,0,1,0,0,1,11,0,0,3,0,0,1,0,1,0,2
+Professor,8.5,0,0,0,1,6,6,0,0,6,0,0,0,5,0,0,2,0,5,1,0,0,2,1,5,2,4,0,2,9,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,8,8,0,0,0,1,5,0,0,4,0,0,3,2,0,0,0,0,2,4,0,0,2,0,0,2,0,0,1,0
+Teomar,132.29,5,0,0,4,2,6,0,0,7,0,0,0,7,0,0,0,0,4,0,0,0,0,4,0,0,0,0,0,13,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,14,10,0,0,1,0,4,6,0,7,0,0,1,0,0,0,0,0,0,8,0,0,3,0,0,0,0,0,0,0
+Torres,3.1,0,0,0,0,7,0,0,0,0,0,0,0,12,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,7,0,0,0,0,0,0,6,0,1,0,0,1,0,0,0,0,0,0,1,0,0,4,0,1,0,0,0,0,0

@@ -1,0 +1,26 @@
+# study_id: Soto_2022
+# source: Soto-Werschitz A. & M. Passamani 2022_to publish.
+# doi: 10.1111/geb.70015
+# database: LandFrag (Goncalves-Souza et al. 2025; doi:10.1111/geb.70015)
+# taxon: Mammalia
+# region: Brazil
+# n_fragments: 15
+# n_species: 29
+# area_units: hectares
+# notes: Continuous-forest sites (patch_type='continuous') excluded; abundance = individuals
+fragment_id,area,Bos_taurus,Cabassous_unicinctus,Canis_lupus_familiaris,Cerdocyon_thous,Conepatus_semistriatus,Cuniculus_paca,Dasypus_novemcinctus,Dasypus_septemcinctus,Didelphis_albiventris,Didelphis_aurita,Eira_barbara,Equus_ferus,Euphractus_sexcinctus,Felis_silvestris,Galictis_cuja,Herpailurus_yagouaroundi,Leopardus_guttulus,Leopardus_pardalis,Leopardus_wiedii,Mazama_sp,Nasua_nasua,Pecari_tajacu,Puma_concolor,Sapajus_nigritus,Sciurus_aestuans,Speothus_venaticus,Sus_scrofa,Sylvilagus_brasiliensis,Tamandua_tetradactyla
+Fragment_1,6,0,2,0,2,0,0,17,0,1,25,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fragment_10,164,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Fragment_11,1290,0,0,0,0,0,0,2,0,0,10,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Fragment_12,1760,2,1,2,0,0,4,0,0,0,6,3,0,2,0,1,1,12,1,7,4,0,12,2,1,0,0,0,0,0
+Fragment_14,232,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,1,0,2,3,3,0,0,0,0,3,0,0
+Fragment_15,595,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0
+Fragment_16,1318,0,1,10,0,0,2,1,1,0,1,0,0,0,0,0,0,0,6,0,0,0,0,1,0,0,0,0,0,0
+Fragment_17,723,0,0,0,0,0,2,0,0,4,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+Fragment_19,1436,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2,0,0,0,0,0
+Fragment_2,27,0,0,0,0,3,3,0,0,0,18,5,1,0,0,0,0,0,2,0,6,0,0,0,0,0,0,1,0,0
+Fragment_4,140,0,0,0,0,0,12,0,0,0,0,3,0,0,0,0,0,0,4,0,0,2,10,2,0,18,0,0,0,0
+Fragment_5,128,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,21,0
+Fragment_6,132,0,0,2,0,0,6,1,1,0,6,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Fragment_7,946,0,0,5,0,0,12,0,0,0,8,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0
+Fragment_9,155,0,0,0,0,0,0,4,1,5,0,1,0,0,0,0,0,0,0,0,0,0,4,1,2,0,0,0,0,3
